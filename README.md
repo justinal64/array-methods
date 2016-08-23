@@ -1,7 +1,5 @@
 #Array Methods
 
-
-
 ## Description
 Introduction to 3 new methods.
 <br>
